@@ -1,0 +1,29 @@
+{
+  "name": "xrpl-memo-demo",
+  "version": "1.0.0",
+  "description": "XRPL memo capability demo",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9oelM/xrpl-memo-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9oelM/xrpl-memo-demo/issues"
+  },
+  "homepage": "https://github.com/9oelM/xrpl-memo-demo#readme",
+  "dependencies": {
+    "xrpl": "^4.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
